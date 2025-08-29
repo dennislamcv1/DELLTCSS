@@ -1,4 +1,4 @@
-# DELLITCSS
+# DELLTCSS
 ## Dell Technologies Technical Customer Support Specialist Professional Certificate
 
 Professional Certificate - 5 course series
